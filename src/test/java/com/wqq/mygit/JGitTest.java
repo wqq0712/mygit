@@ -21,6 +21,10 @@ public class JGitTest
     //TODO 
     System.out.println(1+1);
   }
+  //github增加find方法
+  public Object find(String id) {
+    return new Object();
+  }
   
   //wangqq增加了query方法
   public List<Object> queryAll() {
