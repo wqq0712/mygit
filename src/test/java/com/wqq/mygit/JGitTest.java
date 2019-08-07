@@ -17,9 +17,8 @@ public class JGitTest
     System.out.println("增加了main方法");
     //TODO 
     System.out.println(1+1);
+    //Github增加一行打印语句
+    System.out.println("github print");
   }
-  //github增加find方法
-  public Object find(String id) {
-    return new Object();
-  }
+  
 }
