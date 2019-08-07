@@ -15,5 +15,7 @@ public class JGitTest
   //wangqq增加了main方法
   public static void main(String args[]) {
     System.out.println("增加了main方法");
+    //TODO 
+    System.out.println(1+1);
   }
 }
