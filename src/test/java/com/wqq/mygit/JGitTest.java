@@ -10,9 +10,6 @@
 
 package com.wqq.mygit;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class JGitTest
 {
   //wangqq增加了main方法
@@ -20,14 +17,8 @@ public class JGitTest
     System.out.println("增加了main方法");
     //TODO 
     System.out.println(1+1);
-  }
-  //github增加find方法
-  public Object find(String id) {
-    return new Object();
+    //增加一行打印语句
+    System.out.println(3+2);
   }
   
-  //wangqq增加了query方法
-  public List<Object> queryAll() {
-    return new ArrayList<Object>();
-  }
 }
