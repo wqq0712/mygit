@@ -18,4 +18,8 @@ public class JGitTest
     //TODO 
     System.out.println(1+1);
   }
+  //github增加find方法
+  public Object find(String id) {
+    return new Object();
+  }
 }
