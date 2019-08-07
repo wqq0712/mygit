@@ -19,6 +19,7 @@ public class JGitTest
     System.out.println(1+1);
     //增加一行打印语句
     System.out.println(3+2);
+    //Github增加一行打印语句
+    System.out.println("github print");
   }
-  
 }
