@@ -12,5 +12,8 @@ package com.wqq.mygit;
 
 public class JGitTest
 {
-  //添加注释
+  public static void main(String args[]) {
+    //TODO 
+    System.out.println(1+1);
+  }
 }
