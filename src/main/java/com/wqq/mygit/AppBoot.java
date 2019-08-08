@@ -12,5 +12,5 @@ package com.wqq.mygit;
 
 public class AppBoot
 {
-
+  //eclipse增加一行注释
 }
